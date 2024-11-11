@@ -1,1 +1,2 @@
 This is the initial content of the file.
+This is the modified content on the local machine.
